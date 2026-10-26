@@ -49,7 +49,7 @@ Entries marked *(source only)* have no live demo yet; clone and serve locally.
 - **Terrassa** - [Source](https://github.com/oegea/slop-egara) - by [oegea](https://github.com/oegea). Grand Theft Ègara: Terrassa at 1:1 with real relief. *(source only)*
 - **Utrecht** - [Play](https://bertt.github.io/slop-utrecht/) · [Source](https://github.com/bertt/slop-utrecht) - by [bertt](https://github.com/bertt). Domtoren, Oudegracht and Centraal Station.
 - **Warsaw** - [Play](https://tinywarsaw.app/) · [Tweet](https://x.com/OrestesGaolin/status/2114423799382679687) - by [@OrestesGaolin](https://x.com/OrestesGaolin). Tiny Warsaw.
-- **Warsaw (Isometric Warsaw)** - [Play](https://bedirhanyildirim.com/warsaw-izo/) - by [bedirhanyildirim](https://github.com/bedirhanyildirim). The whole city as an isometric pixel-art map from OSM and GUGiK data, with real sun, seasons and Vistula levels, and trams and trains running to their timetables.
+- **Warsaw (Isometric Warsaw)** - [Play](https://bedirhanyildirim.com/warsaw-izo/) · [Tweet](https://x.com/bedcodes/status/2113176644479229953) - by [@bedcodes](https://x.com/bedcodes). The whole city as an isometric pixel-art map from OSM and GUGiK data, with real sun, seasons and Vistula levels, and trams and trains running to their timetables.
 
 ### North America
 
